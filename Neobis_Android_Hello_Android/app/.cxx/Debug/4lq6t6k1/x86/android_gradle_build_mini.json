@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "D:\\Neobis_Android_Hello_Android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\Neobis_Android_Hello_Android\\app\\.cxx\\Debug\\4lq6t6k1\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\Neobis_Android_Hello_Android\\app\\.cxx\\Debug\\4lq6t6k1\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "neobis_android_hello_android::@6890427a1f51a3e7e1df": {
+      "artifactName": "neobis_android_hello_android",
+      "abi": "x86",
+      "output": "D:\\Neobis_Android_Hello_Android\\app\\build\\intermediates\\cxx\\Debug\\4lq6t6k1\\obj\\x86\\libneobis_android_hello_android.so",
+      "runtimeFiles": [
+        "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\24\\liblog.so"
+      ]
+    }
+  }
+}

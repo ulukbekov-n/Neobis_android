@@ -1,0 +1,3 @@
+D:/Neobis_Android_Hello_Android/app/.cxx/Debug/4lq6t6k1/x86/CMakeFiles/neobis_android_hello_android.dir
+D:/Neobis_Android_Hello_Android/app/.cxx/Debug/4lq6t6k1/x86/CMakeFiles/edit_cache.dir
+D:/Neobis_Android_Hello_Android/app/.cxx/Debug/4lq6t6k1/x86/CMakeFiles/rebuild_cache.dir

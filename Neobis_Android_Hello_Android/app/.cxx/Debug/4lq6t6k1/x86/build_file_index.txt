@@ -1,0 +1,1 @@
+D:\Neobis_Android_Hello_Android\app\src\main\cpp\CMakeLists.txt
